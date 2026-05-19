@@ -3,7 +3,7 @@
 
 [![CI](https://github.com/Abiyzelalem27/bell_state/actions/workflows/python_CI.yml/badge.svg)](https://github.com/Abiyzelalem27/bell_state/actions/workflows/python_CI.yml)
 
-[![codecov](https://codecov.io/github/Abiyzelalem27/bell_state/graph/badge.svg)](https://codecov.io/github/Abiyzelalem27/bell_state) 
+[![codecov](https://codecov.io/github/Abiyzelalem27/bell_state/graph/badge.svg)](https://codecov.io/github/Abiyzelalem27/bell_state) s
 
 # Bell_state
 * **Single-Qubit Gates:** X, Y, Z, Hadamard (H), S, T, and general rotation gates.
