@@ -6,7 +6,6 @@ All notable changes to **Universal Gate** will be documented in this file.
 
 The format is based on *Keep a Changelog* and this project follows *Semantic Versioning*.
 
----
 
 ## [0.1.0] - 2025-11-20
 
@@ -15,4 +14,8 @@ The format is based on *Keep a Changelog* and this project follows *Semantic Ver
 * Added `create_bell_state()` function
 * Added Bloch sphere visualization
 * Added universal quantum gate set
-* Added rotation gates  
+* Added rotation gates
+    
+## [0.1.0] - 2026-05_19
+* update
+  
